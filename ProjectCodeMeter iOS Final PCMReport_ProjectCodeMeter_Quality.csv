@@ -1,0 +1,208 @@
+File,Total Time,Coding %,Debugging %,Testing %,FC% Flow Complexity,OV% Object Vocabulary,OC% Object Conjuration,AI% Arithmetic Intricacy,DT% Data Transfer,ID% Inline Data,CS% Code Structure,CM% Comments,CCR Code to Comment Ratio,ECF Essential Comment Factor,CSM Code Structure Modularity,LD Logic Density,SDE Source Divergence Entropy,IDF Information Diversity Factor,OCF Object Convolution Factor,LLOC Logical Lines of Code,Multi Line Comments,Single Line Comments,High Quality Comments,Strings,Numeric Constants,Code Nature,Quality Notes Count,Quality Notes Detail,
+F:\ALIFE\2018-08-03\iOS\A-Life\A-lifeTests\A_lifeTests.m,1,50,31,19,0,48,9,15,15,0,11,1,71,125,214,42,40,100,10,6,0,9,5,1,0,Algorithmic Oriented,1,* Code structure may be too fragmented. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalDataSource.m,11,45,35,20,7,50,8,7,22,0,6,0,15,30,233,78,49,95,20,18,1,2,3,2,1,Algorithmic Oriented,1,* Code structure may be too fragmented. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalDate.m,24,42,37,21,20,32,14,10,18,0,5,0,2,5,170,95,50,276,32,47,1,0,1,1,4,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalGridView.m,54,43,36,21,19,37,14,6,17,0,6,0,13,37,156,82,43,243,26,128,1,16,17,1,24,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalLogic.m,34,42,37,21,14,32,15,10,24,0,5,0,2,8,98,92,55,288,28,80,1,1,2,3,12,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalMonthView.m,36,44,35,22,26,37,10,7,15,0,5,0,2,6,158,102,54,166,21,73,1,1,2,9,10,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalTileView.m,60,43,36,21,27,30,14,8,15,1,6,0,7,24,134,96,57,292,24,154,1,12,12,11,49,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalView.m,57,44,35,21,8,40,16,7,22,1,6,0,12,51,99,82,44,255,29,141,2,16,18,16,37,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\KalViewController.m,69,42,37,21,13,37,14,7,23,0,5,0,6,22,110,70,48,236,27,160,1,13,10,7,43,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\NSDateAdditions.m,17,43,36,20,4,42,13,13,23,0,5,0,2,9,134,70,54,190,29,33,1,0,1,1,10,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\Kal\UIViewAdditions.m,9,49,32,19,5,33,27,14,7,0,12,0,2,6,185,91,28,500,32,36,1,0,1,0,0,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\AppDelegate.m,81,42,36,22,23,36,10,4,20,1,5,0,23,72,147,82,52,183,24,155,5,40,37,78,14,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Calendar\CalendarDataSource.m,88,39,38,22,34,23,14,3,18,0,7,0,19,38,229,84,51,404,35,160,0,46,31,55,5,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\ExerciseDAO.m,92,38,39,23,28,14,19,5,24,1,8,0,16,40,177,80,51,848,29,275,0,56,46,100,10,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\MeasurementDAO.m,186,38,39,23,29,12,19,6,24,1,8,0,16,37,189,82,55,965,29,541,0,109,91,155,35,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\NotificationDAO.m,67,39,38,23,31,18,16,5,22,1,7,0,15,37,178,82,54,580,26,184,0,34,29,65,14,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\QuestionnaireDAO.m,107,39,38,23,27,13,20,6,24,1,8,0,17,39,186,80,53,938,27,341,0,74,59,110,20,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\TestDAO.m,81,40,38,23,24,20,19,5,23,1,8,0,16,40,169,86,49,594,31,222,0,44,36,86,14,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\UnitMainPartDAO.m,85,40,37,23,30,19,17,4,20,1,7,0,12,30,172,80,52,581,28,234,0,34,30,97,18,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\UserProgramDAO.m,309,38,39,23,30,12,20,5,24,1,8,0,17,41,168,83,50,1120,31,893,0,163,154,374,63,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\WorkoutDAO.m,214,38,38,23,30,12,19,6,23,1,8,0,16,38,185,79,53,984,28,641,0,128,109,209,38,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DAOClasses\WorkoutGoalDAO.m,102,38,38,23,34,14,18,4,22,1,7,0,15,37,173,85,53,828,32,263,0,45,41,100,26,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataBase\DBDataAccess.m,41,42,37,22,19,31,14,10,21,0,4,0,25,86,94,108,56,286,26,99,0,30,25,0,6,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataBase\FMDatabase.m,238,39,38,23,41,17,14,5,16,0,6,0,5,14,164,71,64,524,25,613,4,36,35,91,59,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataBase\FMDatabaseAdditions.m,34,43,36,21,19,39,10,6,19,0,5,0,16,42,166,77,61,164,22,70,2,13,12,6,8,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataBase\FMDatabasePool.m,41,41,37,22,23,30,13,7,20,0,7,0,4,12,176,56,57,276,20,122,0,10,6,6,7,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataBase\FMResultSet.m,94,39,38,22,33,23,13,6,19,0,6,0,4,10,183,73,64,357,26,210,0,11,10,9,17,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\DailyTip.m,6,45,34,21,25,42,11,4,11,0,7,0,15,37,161,75,46,161,17,19,0,7,3,1,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\DeletedItems.m,10,41,37,21,14,36,15,3,24,0,6,0,15,50,134,65,46,248,25,25,0,8,4,8,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Exercise.m,4,47,33,20,13,61,6,2,13,0,4,0,44,133,111,66,67,57,12,8,0,7,4,0,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\ExerciseDomain.m,2,48,32,20,22,56,5,4,6,0,6,1,57,133,142,57,52,45,7,6,0,7,4,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\KeyValue.m,10,43,36,21,24,37,11,4,16,0,7,0,22,54,186,66,44,185,19,26,0,9,6,6,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\LapSummary.m,14,43,36,21,14,39,14,5,20,0,7,0,16,46,156,70,42,217,24,36,0,9,6,8,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Measurement.m,16,42,36,21,15,38,15,4,22,0,6,0,13,42,130,71,43,247,24,44,0,9,6,12,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\MeasurementModel.m,9,42,37,21,20,35,14,4,19,0,7,0,22,66,150,59,41,248,22,26,0,9,6,10,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\MeasurementModelPart.m,9,42,36,21,21,34,14,4,19,0,7,0,24,66,162,60,41,256,23,24,0,9,6,10,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\MeasurementPart.m,8,43,36,21,23,38,11,4,16,0,7,0,28,66,187,61,44,169,18,20,0,9,6,6,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Notification.m,3,49,31,20,17,60,8,3,7,0,5,0,25,100,83,66,53,80,10,11,0,7,3,2,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Question.m,2,48,32,20,24,54,5,4,7,0,7,1,42,100,142,57,50,50,7,6,0,7,3,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Questionnaire.m,2,49,32,20,20,59,6,3,6,0,6,0,37,100,125,62,57,53,8,7,0,7,3,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\QuestionnaireResult.m,3,50,31,19,15,70,4,2,5,0,4,0,37,100,125,62,67,35,8,7,0,7,3,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Test.m,4,50,30,19,14,70,4,2,5,0,4,0,33,100,111,66,67,38,8,8,0,7,3,0,2,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UnitMainPartAerobic.m,7,45,35,20,9,46,15,4,19,0,6,0,12,42,92,76,50,196,21,24,0,7,3,0,1,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UnitMainPartAerobicInterval.m,8,47,33,20,9,47,17,4,16,0,6,0,9,42,76,87,53,225,20,30,0,7,3,0,6,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UnitMainPartExercises.m,4,46,33,20,12,58,8,2,16,1,4,0,25,100,83,75,52,85,15,11,0,7,3,4,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UnitMainPartExercisesStation.m,4,50,31,19,12,69,5,2,8,0,4,0,30,100,100,60,57,45,11,9,0,7,3,2,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\User.m,50,43,36,21,12,32,23,5,21,1,7,0,8,38,82,73,37,442,31,160,0,17,13,67,3,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UserProgram.m,3,48,32,20,14,64,5,2,9,0,4,0,33,100,111,66,65,47,10,8,0,7,3,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UserProgramUnit.m,6,47,33,20,9,66,6,1,15,0,3,0,27,100,90,72,75,54,15,10,0,7,3,0,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\UserProgramUnitExercise.m,3,48,33,20,16,61,5,3,10,0,5,0,37,100,125,62,62,43,8,7,0,7,3,0,1,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\Workout.m,22,43,36,21,9,36,20,3,24,1,7,0,8,35,89,68,39,356,27,73,0,9,6,25,4,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\WorkoutCoreData.m,10,43,36,21,19,38,11,6,18,0,7,0,21,54,178,67,48,176,18,27,0,9,6,4,0,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\WorkoutCoreDataEntry.m,14,44,36,21,14,41,13,5,19,0,7,0,16,46,157,70,42,202,23,36,0,9,6,8,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\WorkoutGoal.m,3,48,32,20,15,60,7,2,11,0,5,0,25,100,83,66,56,70,10,11,0,7,3,2,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\WorkoutGoalIntreval.m,4,50,30,19,12,63,11,2,7,0,4,0,16,75,55,77,59,104,12,17,0,7,3,0,4,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\DataClasses\WorkoutModel.m,7,44,36,21,10,42,16,2,21,1,7,0,26,100,107,52,35,239,28,18,0,8,5,12,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCBase.m,8,51,30,19,7,64,12,1,11,1,4,1,25,120,57,133,55,115,18,23,0,9,6,14,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCColumnChart.m,8,43,36,20,1,43,14,2,31,4,4,1,81,450,65,45,59,196,48,10,1,11,9,1,12,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCDoubleColumnChart.m,23,43,35,21,22,37,11,6,17,1,5,0,14,37,139,88,54,191,28,41,0,9,6,6,6,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCLineChart.m,46,42,37,21,23,29,15,9,19,1,5,0,17,48,139,144,57,323,41,74,0,16,13,13,20,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCSerie.m,3,47,33,20,14,58,6,2,14,0,5,0,50,133,152,75,40,58,12,7,0,7,4,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCZone.m,5,50,31,19,11,65,7,2,10,0,5,0,40,133,122,110,42,68,17,9,0,7,4,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\HCZoneLineChart.m,29,43,36,21,25,35,12,5,17,1,5,0,10,27,141,91,56,217,28,56,0,9,6,11,9,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\highcharts.js,720,46,32,22,13,23,54,2,3,2,3,0,0,0,14,18,7,1468,56,3103,1,1,2,1050,1393,Normal,2,* Needs more comments. * May need breaking down into functions or classes. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\highcharts_rambera-more.js,366,43,35,22,35,20,20,7,10,1,7,1,34,80,191,121,61,637,36,903,86,235,311,185,269,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\highcharts_rambera.js,2729,40,37,23,50,9,18,5,9,1,7,1,38,80,206,127,66,1255,37,6099,443,2003,2321,1217,1586,Data Manipulation Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Graph\jquery-1.9.1.min.js,359,44,34,22,26,22,40,3,3,3,2,0,0,0,29,36,11,1148,69,941,1,0,1,835,348,Normal,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HeartRate\HeartRateMonitor.m,141,41,37,22,29,27,13,5,18,0,6,1,35,107,137,84,55,315,22,375,3,171,132,67,51,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HeartRate\HRVDocumentManager.m,9,47,33,20,0,58,11,5,21,0,4,0,35,200,51,76,43,117,28,16,0,9,6,2,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\ALifeCommon.m,273,39,39,22,29,22,14,8,21,1,6,0,18,52,150,96,62,403,28,605,0,117,112,117,184,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\CaloriesCalculator.m,215,35,42,23,76,4,5,2,6,1,5,0,13,40,188,88,81,740,14,345,38,16,47,0,543,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\CooperCalculator.m,207,34,43,23,33,7,19,2,31,2,6,0,6,16,203,88,53,1836,89,201,5,17,14,7,636,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\CooperScore.m,6,43,37,21,14,46,11,3,20,1,5,0,23,100,63,38,43,138,22,12,0,7,3,5,5,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\DataManager.m,19,43,36,21,18,43,9,8,17,0,4,0,23,66,148,105,65,128,22,33,0,11,8,10,2,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\DBDataManager.m,31,42,36,22,26,34,9,6,17,0,6,0,25,58,185,84,66,173,15,88,0,27,23,3,2,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\ExponentialSmoothing.m,4,45,35,20,31,35,8,11,7,0,8,1,43,100,198,81,57,130,10,15,0,13,7,0,3,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\GPSService.m,14,43,36,21,26,37,10,5,16,0,7,0,25,58,185,75,52,161,15,39,0,15,10,0,2,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\HrPercentCalculator.m,9,45,34,21,30,34,11,11,8,0,5,0,22,71,120,118,48,200,20,21,0,9,5,1,5,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\HRVTimerService.m,27,42,37,21,29,36,9,4,15,0,5,0,28,82,148,74,54,163,17,66,0,23,19,3,4,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\HrZoneCalculator.m,44,37,40,23,36,16,16,4,23,1,6,0,5,16,139,79,44,624,42,73,0,8,4,0,56,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\MeasurementCircumstances.m,21,42,37,22,12,38,16,2,26,1,5,0,45,100,189,75,78,272,80,19,0,13,9,57,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\RockportCalculator.m,76,35,42,23,49,12,11,2,18,1,6,0,8,18,231,81,69,574,35,105,1,14,9,20,139,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\SensorDataManager.m,20,43,36,21,13,42,11,9,20,0,6,0,26,72,157,83,56,162,20,48,0,18,13,10,2,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\SimpleAnnotation.m,4,47,33,20,17,49,10,7,8,0,8,1,27,71,151,55,38,127,12,17,0,8,5,1,0,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\StepTestCalculator.m,22,36,41,23,49,14,10,2,17,1,7,0,7,20,177,56,64,452,16,63,0,9,5,29,29,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\TimerService.m,31,41,37,22,30,30,12,5,17,0,5,0,20,57,153,79,48,250,23,71,0,19,15,0,11,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\TrackingService.m,256,39,38,23,40,19,15,3,16,0,6,0,41,116,157,80,47,489,26,636,0,285,263,34,144,Data Manipulation Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\HelperClasses\UserManager.m,70,38,39,22,33,19,16,5,20,1,5,0,19,71,115,101,49,521,34,144,0,34,28,108,3,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Notifications\LocalNotifications.m,42,42,36,22,31,30,11,7,16,0,6,0,17,36,188,115,54,225,25,79,0,19,14,15,14,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Notifications\PortalNotifications.m,16,42,37,21,31,29,12,8,14,0,5,0,10,30,146,105,54,251,23,36,0,8,4,0,6,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Sound\AudioPlayer.m,1,56,27,17,0,75,5,6,5,0,7,2,175,350,137,50,25,33,7,3,0,11,7,0,0,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\Update\UpdateManager.m,47,40,37,23,37,24,12,5,17,1,5,0,8,25,128,104,52,313,26,94,0,12,8,30,17,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\WebClient\Reachability.m,46,42,36,22,40,26,10,7,10,0,4,1,13,37,152,83,64,246,22,95,1,12,13,25,7,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\WebClient\WebClient.m,92,40,38,22,10,24,21,7,29,1,6,1,38,150,100,67,47,544,31,274,3,126,105,126,15,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\WebClient\WebSync.m,238,39,38,22,17,17,22,9,27,1,6,1,24,95,93,85,52,812,33,719,3,209,177,266,43,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\XML\GDataXMLNode.m,344,39,38,23,45,16,14,6,13,0,6,1,31,69,189,91,61,560,28,786,1,268,246,23,40,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\XML\XMLGenerator.m,270,39,39,23,28,16,19,7,23,1,6,0,44,149,113,101,44,756,45,516,0,257,228,352,27,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\Classes\XML\XMLParser.m,378,38,40,23,25,15,18,8,28,1,5,0,19,64,110,134,56,749,40,762,0,158,152,240,213,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\AboutView.m,16,45,34,21,11,45,12,5,20,2,4,0,28,70,154,84,63,173,36,24,1,10,7,24,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ActivityControlView.m,44,43,36,21,12,40,15,5,21,0,7,0,18,58,142,42,38,243,27,111,1,24,21,13,18,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\AnalysisHistoryCell.m,4,49,32,20,11,60,10,4,9,0,6,0,35,100,124,28,18,100,15,13,0,9,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\CalendarControls\CalendarProgramUnitTableCell.m,4,49,31,19,11,62,8,4,9,0,6,1,55,125,188,44,35,73,18,8,0,9,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ChartView.m,40,44,35,21,6,40,16,10,23,0,5,0,14,59,87,114,51,254,31,91,1,16,13,16,11,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\CooperTestView.m,41,43,36,21,21,39,13,4,17,1,6,0,14,42,149,72,48,205,28,83,0,16,12,34,20,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\CustomNavigationBar.m,5,48,33,20,11,57,6,7,14,0,5,1,70,175,180,90,41,63,14,9,0,11,7,2,1,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\DailyTipsView.m,115,41,37,22,31,26,15,6,16,0,6,0,14,42,129,98,53,370,26,296,0,51,42,28,47,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\HeaderLoadingView.m,8,45,34,21,22,43,8,6,13,0,7,1,27,50,242,72,42,111,16,17,1,8,5,1,0,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\HistoryActivityCell.m,5,49,31,19,11,62,10,3,8,0,6,1,33,100,116,26,19,95,15,14,0,8,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\HorizontalScroller.m,7,42,37,21,25,39,8,4,17,0,6,1,53,100,252,53,48,123,20,12,1,10,7,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\IntroView.m,37,42,37,22,5,27,24,6,29,2,7,0,8,37,78,87,49,568,38,107,1,12,9,47,28,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\LapTableCell.m,4,49,32,20,11,60,10,4,9,0,6,1,35,100,124,28,18,100,15,13,0,8,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\LoadingScreenView.m,3,47,33,20,17,54,5,3,14,0,6,1,100,200,199,66,37,57,13,5,1,8,6,1,1,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\MeasurementHistoryCell.m,6,47,33,20,18,51,9,4,10,0,7,1,46,116,181,46,33,108,16,14,0,10,7,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\MeasurementModelTableCell.m,4,48,32,20,13,56,9,4,10,0,7,1,50,125,171,40,22,100,18,9,0,9,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramDeclarationTableCell.m,7,48,33,20,14,55,9,4,11,0,6,0,31,71,212,56,33,96,19,15,0,9,5,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramDetailsListView.m,35,42,36,22,30,33,12,4,15,0,7,0,28,58,226,87,41,222,29,62,0,22,18,13,1,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramDetailsView.m,23,44,34,21,26,41,10,4,13,0,6,0,18,42,184,79,46,161,22,47,1,12,9,9,3,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramDetailsViewA.m,6,43,35,22,34,37,7,4,11,0,6,1,50,87,228,78,50,105,14,13,1,10,7,1,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramDPTableCell.m,6,47,33,20,17,53,8,4,11,0,6,0,35,83,197,57,39,96,17,13,0,9,5,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramListView.m,140,40,38,22,31,22,15,5,19,1,7,0,10,23,184,79,47,434,32,298,0,34,30,36,100,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramSimpleListView.m,49,41,37,22,28,30,13,4,18,0,6,0,12,27,205,83,44,279,31,92,0,16,12,11,2,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramTableCell.m,10,48,32,20,11,58,11,3,11,0,6,0,14,44,124,50,35,122,19,27,0,8,4,0,1,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramTableCellA.m,7,47,33,20,16,52,9,4,12,0,6,0,33,83,185,60,38,111,20,14,0,9,5,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\ProgramWarmingUpCell.m,7,49,31,19,8,62,9,5,10,0,6,0,33,83,190,40,28,90,20,14,0,9,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\PulsatingLightView.m,19,48,32,20,3,54,15,6,16,0,6,0,29,109,115,100,39,178,33,40,1,15,12,2,13,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\QuestionSliderView.m,13,49,32,19,4,60,11,5,13,0,6,0,16,55,124,64,35,113,21,30,1,8,5,2,6,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\QuestionView.m,18,47,33,20,8,55,10,6,15,0,5,0,23,75,143,78,39,112,21,37,1,11,9,3,3,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\RockportTestView.m,32,44,35,21,19,43,12,3,17,0,5,0,18,55,156,88,48,171,32,52,0,14,10,23,6,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\SensorTableCell.m,9,47,33,20,12,52,12,3,14,0,6,0,26,85,127,56,33,147,23,22,0,9,6,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\SimpleNotification.m,7,49,32,19,8,63,7,4,12,1,5,1,37,150,108,87,36,72,15,15,1,9,6,1,7,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\SlidingView.m,29,47,33,20,10,50,12,5,16,0,6,1,25,91,124,62,37,154,20,81,4,25,21,8,18,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\TestCountdownView.m,8,48,32,20,7,57,9,6,14,0,7,0,22,55,179,68,37,97,15,21,0,8,5,2,1,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\TestPulzView.m,7,48,32,20,9,57,7,7,14,0,7,0,31,62,241,68,37,74,14,15,0,8,5,0,0,Algorithmic Oriented,1,* Code structure may be too fragmented. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\TestTimerView.m,15,45,34,21,23,45,9,5,13,0,6,0,16,42,168,72,40,122,16,35,0,9,6,1,0,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\WorkoutGoalTableCell.m,5,48,32,20,11,55,10,5,11,0,7,0,41,100,188,41,23,104,18,11,0,9,5,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\WorkoutIntervalTableCell.m,4,48,32,20,13,56,9,4,10,0,7,1,50,125,171,40,22,100,18,9,0,9,5,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\WorkoutListViewCell.m,6,48,32,20,9,56,11,5,11,0,7,0,23,57,168,35,20,123,18,16,0,7,4,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\CustomControls\WorkoutModelTableCell.m,4,48,32,20,13,56,9,4,10,0,7,1,60,150,171,40,22,100,18,9,0,9,6,0,0,Normal,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\main.m,5,45,34,20,11,59,4,2,18,0,5,0,57,100,241,42,64,36,11,6,0,7,4,4,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\ActivityOptions\ActivityGoalIntervalsTableViewController.m,87,41,37,22,28,30,13,5,17,0,6,0,5,14,179,87,50,278,29,173,0,14,10,35,29,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\ActivityOptions\ActivityGoalsTableViewController.m,327,38,39,23,36,16,17,4,19,1,7,0,7,20,165,78,51,696,33,776,0,65,59,155,163,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\CooperTestViewController.m,62,43,36,21,21,40,12,4,17,0,6,0,17,51,144,55,42,193,21,156,0,31,28,21,11,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\RockportTestViewController.m,91,42,36,21,24,37,12,4,17,0,6,0,18,53,146,58,46,210,22,224,0,44,41,31,22,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\StepTestViewController.m,67,43,36,21,23,38,11,4,17,0,6,0,14,39,160,64,47,189,23,148,0,26,22,28,17,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestResultsContainerViewController.m,61,43,36,21,27,34,14,4,14,0,6,0,14,42,149,85,42,261,30,125,0,22,18,14,37,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestResultsViewController.m,59,43,36,21,24,35,15,3,16,1,6,0,17,63,126,73,45,263,28,135,0,28,24,29,40,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestsCooperResultsTableView.m,189,34,43,23,64,10,7,1,11,1,5,0,8,16,227,61,81,451,16,368,0,33,30,139,176,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestsRockportResultsController.m,148,37,40,23,62,14,8,2,8,1,5,0,20,45,210,87,71,353,21,241,0,68,49,84,140,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestsStepResultsController.m,193,35,42,24,68,9,7,1,9,1,4,0,2,5,227,82,70,446,20,288,0,14,8,123,186,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestSubViewController.m,90,42,37,21,19,38,13,3,21,0,6,0,13,44,136,59,45,222,26,204,0,32,28,26,36,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Analysis\TestsViewController.m,82,42,37,21,21,33,15,4,19,1,6,0,13,44,136,61,46,285,27,198,0,30,27,40,36,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DashBoardControllers\DashBoardData.m,7,45,34,21,14,47,13,2,17,0,6,0,22,66,128,77,45,170,25,17,0,7,4,0,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DashBoardControllers\DashNewViewController.m,128,42,36,21,14,35,19,5,21,1,6,0,17,67,110,55,44,345,36,300,0,57,53,103,27,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DashBoardControllers\UINavigationController+autoRotate.m,1,51,31,18,10,65,1,10,4,0,9,1,60,100,200,40,50,11,2,4,0,7,3,0,0,Algorithmic Oriented,1,* Code structure may be too fragmented. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DiaryControllers\ActivityDetailsMapViewController.m,43,44,35,21,18,43,10,6,17,0,5,0,19,62,132,81,48,148,22,86,0,20,17,13,16,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DiaryControllers\ActivityDetailsSubTableViewController.m,70,43,36,21,10,39,19,4,21,1,5,0,11,71,45,62,46,313,30,203,0,27,23,49,27,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DiaryControllers\ChartViewController.m,90,41,37,22,25,27,17,6,18,1,6,0,18,63,118,96,44,392,38,178,0,40,33,43,82,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\DiaryControllers\HistoryViewController.m,235,40,38,22,33,23,15,5,18,0,5,0,6,20,143,107,51,407,36,437,0,34,30,96,43,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Exercises\ExercisesViewController.m,64,43,36,21,14,40,14,5,21,0,5,0,15,47,128,74,47,221,31,125,1,23,19,41,10,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Exercises\ExerciseTextViewerViewController.m,84,41,38,21,18,24,17,13,23,1,5,0,6,23,109,134,56,445,45,138,1,12,9,40,176,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Faq\FaqHTML5ViewController.m,9,46,34,20,6,55,8,6,20,0,5,0,33,85,161,55,43,88,17,17,0,10,6,4,0,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Faq\jquery-1.6.4.min.js,617,41,36,23,44,13,28,3,7,1,3,0,0,0,78,72,28,1312,53,1426,1,0,1,627,552,Data Manipulation Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Faq\jquery.min.js,494,43,34,23,31,18,41,2,4,2,3,0,0,0,29,34,11,1427,66,1367,1,1,2,874,508,Normal,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Faq\jquery.mobile.js,1643,42,36,23,47,12,18,3,8,1,8,1,33,73,214,86,58,946,33,4035,22,1358,1350,2139,502,Data Manipulation Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Intro\IntroViewController.m,72,41,37,22,26,27,17,5,18,1,6,0,8,29,118,81,45,400,29,189,0,20,16,16,72,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityAfterTableViewController.m,122,40,38,22,34,29,12,2,16,1,6,0,17,50,160,64,48,264,28,239,0,46,42,62,70,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityDataViewController.m,39,45,35,21,14,41,16,5,16,0,7,0,14,48,130,71,41,244,28,98,0,17,14,15,9,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityDetailsTableViewController.m,254,42,37,22,18,26,24,6,19,0,7,0,7,32,100,75,43,570,46,579,0,50,46,117,71,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityIntervalViewController.m,44,44,35,21,24,37,15,4,14,0,6,0,15,47,143,79,43,252,26,111,0,21,17,14,14,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityLapsViewController.m,45,45,35,21,11,44,16,4,18,0,6,0,8,32,103,65,42,236,27,121,0,14,10,21,9,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityMapViewController.m,38,45,35,21,13,44,13,5,18,0,6,0,19,56,150,70,38,190,26,87,0,20,17,2,16,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivitySelectorTableViewController.m,60,44,35,21,18,43,11,5,18,0,5,0,24,62,164,83,46,158,26,110,0,30,27,26,14,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivitySensorsViewController.m,213,41,37,22,23,25,18,6,21,1,6,0,14,42,148,88,50,452,36,467,0,74,67,164,116,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivitySummaryTableViewController.m,59,45,35,20,9,46,16,5,19,0,6,1,16,70,91,66,39,213,27,149,5,22,24,26,9,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\ActivityViewController.m,112,42,36,22,27,33,14,4,15,0,6,0,13,41,144,88,41,277,30,238,0,36,32,13,41,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\OutdoorControllers\AddActivityTableViewController.m,182,40,38,22,23,28,16,3,22,1,6,0,6,19,132,64,51,369,28,474,0,41,29,90,118,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Program\ProgramClassicViewController.m,107,42,37,21,16,30,16,10,22,1,5,0,17,55,132,106,53,340,39,195,1,38,34,60,148,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\Program\ProgramTableViewController.m,216,41,37,22,27,28,15,4,19,0,6,0,15,42,151,74,46,351,30,488,1,78,74,84,90,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\QuestionnaireControllers\QuestionnaireResultsContainerViewController.m,50,43,36,21,24,33,15,5,15,0,6,0,12,39,133,84,40,284,27,122,0,19,15,4,38,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\QuestionnaireControllers\QuestionnaireResultsHRVViewController.m,11,46,33,20,9,55,9,4,16,0,6,0,28,70,185,52,42,97,18,24,0,11,7,5,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\QuestionnaireControllers\QuestionnaireResultsViewController.m,49,44,35,20,3,39,20,7,23,1,7,0,20,112,69,65,44,328,32,139,0,32,28,30,74,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\QuestionnaireControllers\QuestionnaireStartViewController.m,15,46,34,20,8,53,10,4,17,1,6,0,31,91,152,42,41,121,20,34,0,15,11,8,4,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\QuestionnaireControllers\QuestionnaireViewController.m,82,42,37,21,13,29,19,8,24,1,6,0,12,47,108,81,50,409,37,189,0,27,24,72,48,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\SettingsControllers\HRSensorViewController.m,113,42,37,22,23,31,15,5,19,0,6,0,25,76,141,65,48,297,25,289,0,99,73,73,28,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\SettingsControllers\HRSettingsViewController.m,19,47,34,20,6,50,10,8,18,0,6,2,52,130,178,54,43,125,17,49,6,25,26,2,2,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\SettingsControllers\SettingsNewViewController.m,42,41,37,22,29,32,13,3,17,1,6,0,12,34,171,60,48,257,26,93,0,16,12,23,17,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\SettingsControllers\SettingsViewController.m,246,40,38,22,29,27,15,3,18,0,7,0,15,46,144,65,49,369,26,641,0,106,101,112,99,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\StartUpControllers\AboutViewController.m,42,43,36,21,23,34,15,5,17,1,6,0,14,50,118,79,45,281,27,103,0,19,15,7,34,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\StartUpControllers\ItemSelectorTableViewController.m,14,45,35,20,11,49,9,6,19,0,6,1,42,109,186,57,42,120,21,27,0,16,12,1,1,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\StartUpControllers\LoginViewController.m,46,44,36,21,16,44,10,4,19,0,5,0,33,94,156,61,48,152,22,98,1,41,33,24,4,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\StartUpControllers\UserLoginViewController.m,114,42,37,22,23,35,12,4,19,0,5,0,28,77,147,72,49,226,26,237,0,77,67,31,28,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\BloodPressureTableViewController.m,131,41,38,22,21,31,16,4,22,0,6,0,8,25,142,64,50,321,31,294,0,29,25,80,26,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\BloodSugarMeasurementTableViewController.m,107,42,36,21,15,38,14,4,22,0,6,0,8,26,143,68,48,240,28,241,0,25,21,47,22,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\BodyWeightTableViewController.m,169,40,38,22,21,28,17,4,23,0,6,0,9,30,133,71,49,390,34,385,0,41,37,100,44,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\DatePickerViewController.m,17,45,35,20,12,51,9,4,19,0,5,1,38,100,170,41,47,109,20,33,0,16,13,8,0,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\HRVDetailsTableViewController.m,41,45,35,21,4,48,16,4,22,0,5,0,17,72,91,55,47,207,31,93,1,19,16,37,2,Data I/O Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\HRVIntervalsTableViewController.m,18,46,34,20,3,47,16,6,20,1,7,0,19,69,119,56,44,214,28,45,1,12,9,13,5,Algorithmic Oriented,0,
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\HRVTableViewController.m,145,40,38,22,22,29,16,3,21,1,7,0,12,41,130,47,46,361,27,395,1,52,48,73,110,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MaxPulseTableViewController.m,73,43,36,21,16,39,13,5,20,0,6,0,8,24,148,61,48,215,25,170,0,18,14,33,18,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MeasurementsChartViewController.m,120,40,38,22,20,26,18,7,23,1,6,0,13,41,138,113,46,432,45,211,0,33,29,28,94,Algorithmic Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MeasurementSelectorTableViewController.m,30,43,36,21,15,44,11,5,20,0,6,0,18,57,145,54,44,152,22,63,0,16,12,13,8,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MeasurementsViewController.m,80,42,36,21,15,37,15,5,21,1,6,0,11,39,127,59,45,260,27,200,0,30,23,48,51,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MeasurementViewController.m,225,39,39,22,23,23,19,4,25,0,6,0,9,37,104,57,48,516,30,622,0,66,60,108,53,Data I/O Oriented,1,* Needs more comments. 
+F:\ALIFE\2018-08-03\iOS\A-Life\StresApp\ViewControllers\TestingControllers\MorningMeasurementTableViewController.m,182,40,38,22,21,27,18,4,23,0,6,0,8,30,122,60,47,423,30,474,0,45,41,90,57,Data I/O Oriented,1,* Needs more comments. 
+
+Entire Project Totals,19346,41,37,22,33,21,19,5,15,1,6,0,19,54,143,81,45,564,35,46240,669,9335,8811,13479,11210,Data I/O Oriented,113,
+

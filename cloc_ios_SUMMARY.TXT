@@ -1,0 +1,221 @@
+file 	lang 	files 	blanks 	comments 	code
+F:\ALIFE\clocios\2017-07-28-iOS-StresApp.scv	C/C++ Header	275	3288	7759	9001
+F:\ALIFE\clocios\2017-07-28-iOS-StresApp.scv	Objective C	77	3262	3566	8808
+F:\ALIFE\clocios\2017-08-04-iOS-StresApp.scv	C/C++ Header	299	3585	7997	9536
+F:\ALIFE\clocios\2017-08-04-iOS-StresApp.scv	Objective C	101	4490	4278	11953
+F:\ALIFE\clocios\2017-08-11-iOS-StresApp.scv	C/C++ Header	319	3768	8182	10044
+F:\ALIFE\clocios\2017-08-11-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-08-11-iOS-StresApp.scv	Objective C	121	5159	4723	13890
+F:\ALIFE\clocios\2017-08-18-iOS-StresApp.scv	C/C++ Header	340	3937	8371	10457
+F:\ALIFE\clocios\2017-08-18-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-08-18-iOS-StresApp.scv	Objective C	142	5922	5035	16585
+F:\ALIFE\clocios\2017-08-25-iOS-StresApp.scv	C/C++ Header	300	3573	8032	9883
+F:\ALIFE\clocios\2017-08-25-iOS-StresApp.scv	XML	1	0	0	285
+F:\ALIFE\clocios\2017-08-25-iOS-StresApp.scv	Objective C	102	4780	3015	14224
+F:\ALIFE\clocios\2017-09-01-iOS-StresApp.scv	C/C++ Header	304	3638	8080	10024
+F:\ALIFE\clocios\2017-09-01-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-09-01-iOS-StresApp.scv	Objective C	106	5161	3322	15331
+F:\ALIFE\clocios\2017-09-08-iOS-StresApp.scv	C/C++ Header	304	3638	8084	10031
+F:\ALIFE\clocios\2017-09-08-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-09-08-iOS-StresApp.scv	Objective C	106	5151	3235	15341
+F:\ALIFE\clocios\2017-09-15-iOS-StresApp.scv	C/C++ Header	304	3638	8084	10031
+F:\ALIFE\clocios\2017-09-15-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-09-15-iOS-StresApp.scv	Objective C	106	5151	3235	15341
+F:\ALIFE\clocios\2017-09-22-iOS-StresApp.scv	C/C++ Header	304	3646	8084	10056
+F:\ALIFE\clocios\2017-09-22-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-09-22-iOS-StresApp.scv	Objective C	106	5230	3342	15639
+F:\ALIFE\clocios\2017-09-29-iOS-StresApp.scv	C/C++ Header	305	3654	8096	10068
+F:\ALIFE\clocios\2017-09-29-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-09-29-iOS-StresApp.scv	Objective C	107	5244	3276	15688
+F:\ALIFE\clocios\2017-10-06-iOS-StresApp.scv	C/C++ Header	307	3679	8119	10134
+F:\ALIFE\clocios\2017-10-06-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-10-06-iOS-StresApp.scv	Objective C	109	5305	3326	16207
+F:\ALIFE\clocios\2017-10-13-iOS-StresApp.scv	C/C++ Header	307	3679	8119	10134
+F:\ALIFE\clocios\2017-10-13-iOS-StresApp.scv	XML	1	0	0	1
+F:\ALIFE\clocios\2017-10-13-iOS-StresApp.scv	Objective C	109	5305	3326	16207
+F:\ALIFE\clocios\2017-10-20-iOS-StresApp.scv	C/C++ Header	306	3721	8193	10441
+F:\ALIFE\clocios\2017-10-20-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-10-20-iOS-StresApp.scv	Objective C	108	5439	3313	16982
+F:\ALIFE\clocios\2017-10-27-iOS-StresApp.scv	C/C++ Header	307	3736	8204	10499
+F:\ALIFE\clocios\2017-10-27-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-10-27-iOS-StresApp.scv	Objective C	109	5512	3361	17152
+F:\ALIFE\clocios\2017-11-03-iOS-StresApp.scv	C/C++ Header	307	3736	8204	10499
+F:\ALIFE\clocios\2017-11-03-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-11-03-iOS-StresApp.scv	Objective C	109	5512	3361	17152
+F:\ALIFE\clocios\2017-11-10-iOS-StresApp.scv	C/C++ Header	198	2472	6936	7449
+F:\ALIFE\clocios\2017-11-10-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-11-10-iOS-StresApp.scv	Objective C	2	35	51	123
+F:\ALIFE\clocios\2017-11-17-iOS-StresApp.scv	C/C++ Header	198	2472	6936	7449
+F:\ALIFE\clocios\2017-11-17-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-11-17-iOS-StresApp.scv	Objective C	2	35	51	123
+F:\ALIFE\clocios\2017-11-24-iOS-StresApp.scv	C/C++ Header	198	2472	6936	7449
+F:\ALIFE\clocios\2017-11-24-iOS-StresApp.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-11-24-iOS-StresApp.scv	Objective C	2	35	51	123
+F:\ALIFE\clocios\2017-12-01-iOS-A-Life.scv	C/C++ Header	313	3805	8278	10653
+F:\ALIFE\clocios\2017-12-01-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-12-01-iOS-A-Life.scv	Objective C	115	5967	3869	18265
+F:\ALIFE\clocios\2017-12-08-iOS-A-Life.scv	C/C++ Header	330	3961	8474	10905
+F:\ALIFE\clocios\2017-12-08-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-12-08-iOS-A-Life.scv	Objective C	132	6462	4299	19525
+F:\ALIFE\clocios\2017-12-15-iOS-A-Life.scv	C/C++ Header	332	4009	8519	11009
+F:\ALIFE\clocios\2017-12-15-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-12-15-iOS-A-Life.scv	Objective C	134	6797	4391	20530
+F:\ALIFE\clocios\2017-12-22-iOS-A-Life.scv	C/C++ Header	336	4050	8556	11085
+F:\ALIFE\clocios\2017-12-22-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-12-22-iOS-A-Life.scv	Objective C	138	7013	4679	21059
+F:\ALIFE\clocios\2017-12-29-iOS-A-Life.scv	C/C++ Header	336	4050	8556	11085
+F:\ALIFE\clocios\2017-12-29-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2017-12-29-iOS-A-Life.scv	Objective C	138	7013	4679	21059
+F:\ALIFE\clocios\2018-01-05-iOS-A-Life.scv	C/C++ Header	336	4079	8563	11167
+F:\ALIFE\clocios\2018-01-05-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-01-05-iOS-A-Life.scv	Objective C	138	7079	4684	21424
+F:\ALIFE\clocios\2018-01-12-iOS-A-Life.scv	C/C++ Header	340	4121	8603	11255
+F:\ALIFE\clocios\2018-01-12-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-01-12-iOS-A-Life.scv	Objective C	142	7332	4835	22300
+F:\ALIFE\clocios\2018-01-19-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-01-19-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-01-19-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-01-26-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-01-26-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-01-26-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-02-02-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-02-02-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-02-02-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-02-09-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-02-09-iOS-A-Life.scv	XML	3	0	0	3
+F:\ALIFE\clocios\2018-02-09-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-02-16-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-02-16-iOS-A-Life.scv	XML	2	0	0	2
+F:\ALIFE\clocios\2018-02-16-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-02-23-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-02-23-iOS-A-Life.scv	XML	2	0	0	2
+F:\ALIFE\clocios\2018-02-23-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-03-02-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-03-02-iOS-A-Life.scv	XML	2	0	0	2
+F:\ALIFE\clocios\2018-03-02-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-03-09-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-03-09-iOS-A-Life.scv	XML	2	0	0	2
+F:\ALIFE\clocios\2018-03-09-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-03-16-iOS-A-Life.scv	C/C++ Header	341	4146	8614	11334
+F:\ALIFE\clocios\2018-03-16-iOS-A-Life.scv	XML	2	0	0	2
+F:\ALIFE\clocios\2018-03-16-iOS-A-Life.scv	Objective C	143	7463	4763	22884
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	C/C++ Header	373	4626	9535	12261
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	XML	14	445	3	28956
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	Objective C	166	9174	5847	28199
+F:\ALIFE\clocios\2018-03-23-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	C/C++ Header	373	4650	9548	12336
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	XML	14	445	3	28956
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	Objective C	166	9380	5979	28839
+F:\ALIFE\clocios\2018-03-30-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	C/C++ Header	376	4681	9579	12378
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	XML	14	445	3	29268
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	Objective C	169	9544	6179	29267
+F:\ALIFE\clocios\2018-04-06-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	C/C++ Header	377	4697	9594	12417
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	XML	14	445	3	29268
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	Objective C	170	9672	6350	29645
+F:\ALIFE\clocios\2018-04-13-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	C/C++ Header	388	4820	9726	12701
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	XML	14	445	3	29268
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	Objective C	179	10115	6534	31477
+F:\ALIFE\clocios\2018-04-20-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	C/C++ Header	403	4936	9984	12997
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	XML	14	445	3	29268
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	Objective C	192	10643	6752	33518
+F:\ALIFE\clocios\2018-04-27-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	C/C++ Header	405	4949	9999	13033
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	XML	14	445	3	29268
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	Objective C	194	10715	6860	33748
+F:\ALIFE\clocios\2018-05-04-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	C/C++ Header	415	5064	10103	13345
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	Objective C	204	11355	7085	35808
+F:\ALIFE\clocios\2018-05-11-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	C/C++ Header	422	5156	10197	13622
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	Objective C	211	11969	7268	38322
+F:\ALIFE\clocios\2018-05-18-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	C/C++ Header	423	5168	10210	13648
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	Objective C	212	12062	7344	38777
+F:\ALIFE\clocios\2018-05-25-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	C/C++ Header	447	5495	10971	14224
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	Objective C	213	12144	7252	39161
+F:\ALIFE\clocios\2018-06-01-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	C/C++ Header	447	5507	10982	14244
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	Objective C	213	12249	7343	39512
+F:\ALIFE\clocios\2018-06-08-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	C/C++ Header	449	5544	11010	14321
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	XML	20	445	3	36491
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	Objective C	215	12380	7482	39877
+F:\ALIFE\clocios\2018-06-15-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	C/C++ Header	450	5552	11020	14365
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	XML	16	445	3	14215
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	Objective C	216	12586	7603	40562
+F:\ALIFE\clocios\2018-06-22-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	C/C++ Header	450	5556	11023	14370
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	XML	16	445	3	14215
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	Objective C	216	12615	7600	40625
+F:\ALIFE\clocios\2018-06-29-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	C/C++ Header	351	4736	9830	12058
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	XML	16	445	3	14794
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	Objective C	196	11961	6513	38681
+F:\ALIFE\clocios\2018-07-06-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	C/C++ Header	352	4752	9844	12088
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	XML	16	445	3	14794
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	Objective C	197	11978	6505	38650
+F:\ALIFE\clocios\2018-07-13-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	C/C++ Header	352	4752	9844	12088
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	XML	16	445	3	14794
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	Objective C	197	11911	5947	38651
+F:\ALIFE\clocios\2018-07-20-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	C/C++ Header	352	4752	9844	12088
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	XML	16	445	3	14794
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	Objective C	197	11911	5947	38651
+F:\ALIFE\clocios\2018-07-27-iOS-A-Life.scv	XSLT	1	48	0	249
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	C/C++ Header	352	4752	9844	12088
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	CSS	1	7	175	3163
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	XML	16	445	3	14794
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	Javascript	7	4618	6726	18807
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	Objective C	197	11911	5947	38651
+F:\ALIFE\clocios\2018-08-03-iOS-A-Life.scv	XSLT	1	48	0	249
